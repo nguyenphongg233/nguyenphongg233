@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nguyenphong233
-- 👀 Nhất Quốc Gia 2024 
+- 👀 Nhất  
 
 <!---
 nguyenphongg233/nguyenphongg233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
